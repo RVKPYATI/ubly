@@ -66,8 +66,8 @@ export const Register: FC = () => {
             </div>
           </div>
         </form>
-        <div className="bg-[#6BFFF2] w-[192px] h-[192px] absolute top-[54px] right-[20px] rounded-full blur-[300px] pointer-events-none"></div>
-        <div className="bg-[#9BA3FF] w-[192px] h-[192px] absolute top-[136px] left-[35px] rounded-full blur-[300px] pointer-events-none"></div>
+        <div className="bg-[#6BFFF2] w-[192px] h-[192px] absolute top-[54px] right-[20px] rounded-full blur-[386px] pointer-events-none"></div>
+        <div className="bg-[#9BA3FF] w-[192px] h-[192px] absolute top-[136px] left-[35px] rounded-full blur-[386px] pointer-events-none"></div>
       </div>
     </div>
   );
