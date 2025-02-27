@@ -8,7 +8,7 @@ export const Profile: FC = () => {
       {/* icon */}
       <div className="">
         <img
-          src="/public/profile.png"
+          src="./public/profile.png"
           className="w-[30px] h-[30px] rounded-full object-cover border-[1px] border-[#75797C]"
         />
       </div>
