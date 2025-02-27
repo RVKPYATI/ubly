@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Rubik";
+  src: url("./fonts/Rubik-Light.ttf") format("ttf");
+
+  font-weight: light;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Rubik";
+  src: url("./fonts/Rubik-Regular.ttf") format("ttf");
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Rubik";
+  src: url("./fonts/Rubik-Medium.ttf") format("ttf");
+  font-weight: medium;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Rubik";
+  src: url("./fonts/Rubik-Bold.ttf") format("ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Rubik";
+  src: url("./fonts/Rubik-Black.ttf") format("ttf");
+  font-weight: black;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Rubik";
+  src: url("./fonts/Rubik-ExtraBold.ttf") format("ttf");
+  font-weight: extra-bold;
+  font-style: normal;
+}
+
+@theme {
+  --color-mint: #74fff1;
+  --color-gray-100: #bababa;
+  --color-gray-200: #6b7280;
+  --color-gray-300: #75797c;
+  --color-dark-light: #181b20;
+  --color-dark: #13151a;
+  --color-brown: #979797;
+  --color-orange: #ff3b30;
+
+  --font-rubik: "Rubik", sans-serif;
+}
